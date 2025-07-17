@@ -8,7 +8,7 @@
 
 This project investigates how movie ratings, genres, and budgets relate to financial performance using the `movies_metadata.csv` file from the Kaggle Movies Dataset. By analyzing ~45,000 movies, we aim to uncover insights into what drives ROI and audience approval in the film industry.
 
-<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/c729fcd8-e819-4201-8bab-1191a8d1d43e" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/c729fcd8-e819-4201-8bab-1191a8d1d43e" />
 
 ---
 
